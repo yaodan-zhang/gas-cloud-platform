@@ -23,4 +23,3 @@ If a user upgrades to premium, the web server will send a message to a restore q
 
 1. The references are listed on the top of each file if there are any, instead of listed as inline comments as specified in the project description. Hope this still works (the purpose is for asthentic improval).
 2. If you are testing the autoscaling group and terminate all instances, after new instances are initialized, it takes some time for them to pass the health checks as you might first see they appear to be unhealthy, and then healthy after a couple of minutes (5-10minutes). Please be patient.
-# gas-cloud-platform
